@@ -108,7 +108,7 @@ export default function PromptPreviewCard({
           backgroundColor: "#f3f4f6",
           color: "#111827",
           padding: "12px",
-          fontSize: "13px",
+          fontSize: "12px",
           fontFamily:
             'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace',
           minHeight: "200px",
