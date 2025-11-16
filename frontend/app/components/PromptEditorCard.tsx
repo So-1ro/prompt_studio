@@ -70,7 +70,7 @@ export default function PromptEditorCard({
           transition: "border-color 0.15s ease, box-shadow 0.15s ease",
           backgroundColor: "#f3f4f6",
         }}
-        placeholder="例：AIエージェントに、最新のAIニュースを収集・要約し、重要ポイントと今後の示唆を出力させるプロンプトを作りたい。対象読者はITリテラシーが高いビジネスパーソン。"
+        placeholder="例：与えられた情報をもとに、読みやすく整理された文章を自動生成するプロンプトを作りたい。"
         value={userRequest}
         onChange={(e) => onChange(e.target.value)}
         onFocus={(e) => {
