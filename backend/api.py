@@ -28,7 +28,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://promptstudio-gold.vercel.app",
+        "https://prompt-studio-khaki.vercel.app/",
     ],
     allow_credentials=True,
     allow_methods=["*"],
