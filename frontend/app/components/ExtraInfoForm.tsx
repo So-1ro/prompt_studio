@@ -55,7 +55,7 @@ export default function ExtraInfoFormCard({
         <div key={f.id} style={{ marginBottom: "16px" }}>
           <label
             style={{
-              fontSize: "14px",
+              fontSize: "12px",
               fontWeight: 500,
               marginBottom: "6px",
               display: "block",
