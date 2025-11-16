@@ -47,14 +47,14 @@ export default function PromptPreviewCard({
           </p>
         </div>
 
-        {/* 🔵 Copyボタン（生成ボタンと完全同じUI） */}
+        {/* 🔵 Copyボタン */}
         <button
           type="button"
           onClick={onCopy}
           disabled={!finalBody}
           style={{
             padding: "8px 16px",
-            fontSize: "14px",
+            fontSize: "12px",
             fontWeight: 600,
             borderRadius: "6px",
             border: "1px solid #d1d5db",

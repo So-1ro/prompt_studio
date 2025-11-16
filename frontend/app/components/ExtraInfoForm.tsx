@@ -103,7 +103,7 @@ export default function ExtraInfoFormCard({
           style={{
             marginTop: "12px",
             padding: "8px 16px",
-            fontSize: "14px",
+            fontSize: "11px",
             fontWeight: 600,
             borderRadius: "6px",
             border: "1px solid #d1d5db",

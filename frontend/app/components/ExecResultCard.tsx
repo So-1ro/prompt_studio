@@ -53,7 +53,7 @@ export default function ExecResultCard({ text, title }: Props) {
           onClick={handleCopy}
           style={{
             padding: "8px 16px",
-            fontSize: "14px",
+            fontSize: "12px",
             fontWeight: 600,
             borderRadius: "6px",
             border: "1px solid #d1d5db",
