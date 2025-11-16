@@ -25,7 +25,7 @@ app = FastAPI()
 
 # CORS
 origins = [
-    "https://prompt-studio-khaki.vercel.app", 
+    "https://prompt-studio-iota.vercel.app/", 
     "http://localhost:3000",                   
 ]
 
